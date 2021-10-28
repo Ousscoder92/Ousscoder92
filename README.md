@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ousscoder92
+- 👋 Hi, I’m ouss_coder
 - 👀 I’m interested in learning web developpement
 - 🌱 I’m currently learning javascript from scratch 
 - 💞️ I’m looking for books tutorials projects that can be helpfull for me 
